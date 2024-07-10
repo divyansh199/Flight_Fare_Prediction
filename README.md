@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 ## Introduction
 Flight Fare Prediction is a sophisticated machine learning project aimed at predicting the cost of flight tickets. This project leverages various features such as the airline, departure and arrival locations, travel duration, the number of stops, and more to provide accurate fare predictions.
 ## Project Structure
@@ -121,3 +119,7 @@ Flight Fare Prediction is a sophisticated machine learning project aimed at pred
 <img src="static/image/Screenshot 2024-07-10 at 11.31.18 PM.png" height="500" />
 
 <img src="static/image/Screenshot 2024-07-10 at 11.30.30 PM.png" height="500" />
+
+
+## Results
+**XGBoost⚡️**: shows best performance with 0.85 of r2 score
